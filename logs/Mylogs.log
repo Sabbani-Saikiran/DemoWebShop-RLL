@@ -1,0 +1,502 @@
+[INFO ] 2024-01-23 09:29:03.610 [main] subscriptionofnewsletter_stepdef - Navigating to the URL
+[INFO ] 2024-01-23 09:29:07.236 [main] subscriptionofnewsletter_stepdef - Clicking on login link
+[INFO ] 2024-01-23 09:29:10.280 [main] subscriptionofnewsletter_stepdef - Entering the Email id
+[INFO ] 2024-01-23 09:29:12.473 [main] subscriptionofnewsletter_stepdef - Entering the Password
+[INFO ] 2024-01-23 09:29:14.657 [main] subscriptionofnewsletter_stepdef - Clicking on login button
+[INFO ] 2024-01-23 09:29:18.579 [main] subscriptionofnewsletter_stepdef - Entering the signup mail id
+[INFO ] 2024-01-23 09:29:22.955 [main] subscriptionofnewsletter_stepdef - Clicking on Subscribe
+[INFO ] 2024-01-23 09:29:28.445 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 09:29:50.860 [main] subscriptionofnewsletter_stepdef - Navigating to the URL
+[INFO ] 2024-01-23 09:29:52.350 [main] subscriptionofnewsletter_stepdef - Clicking on login link
+[INFO ] 2024-01-23 09:29:55.191 [main] subscriptionofnewsletter_stepdef - Entering the Email id
+[INFO ] 2024-01-23 09:29:57.326 [main] subscriptionofnewsletter_stepdef - Entering the Password
+[INFO ] 2024-01-23 09:29:59.546 [main] subscriptionofnewsletter_stepdef - Clicking on login button
+[INFO ] 2024-01-23 09:30:02.968 [main] subscriptionofnewsletter_stepdef - Entering the signup mail id
+[INFO ] 2024-01-23 09:30:07.368 [main] subscriptionofnewsletter_stepdef - Clicking on Subscribe
+[INFO ] 2024-01-23 09:30:13.039 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 09:30:16.725 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 09:30:34.933 [main] subscriptionofnewsletter_stepdef - Navigating to the URL
+[INFO ] 2024-01-23 09:30:36.188 [main] subscriptionofnewsletter_stepdef - Clicking on login link
+[INFO ] 2024-01-23 09:30:39.294 [main] subscriptionofnewsletter_stepdef - Entering the Email id
+[INFO ] 2024-01-23 09:30:41.592 [main] subscriptionofnewsletter_stepdef - Entering the Password
+[INFO ] 2024-01-23 09:30:43.763 [main] subscriptionofnewsletter_stepdef - Clicking on login button
+[INFO ] 2024-01-23 09:30:46.994 [main] subscriptionofnewsletter_stepdef - Entering the signup mail id
+[INFO ] 2024-01-23 09:30:51.359 [main] subscriptionofnewsletter_stepdef - Clicking on Subscribe
+[INFO ] 2024-01-23 09:30:56.786 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 09:31:01.389 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 09:31:16.740 [main] subscriptionofnewsletter_stepdef - Navigating to the URL
+[INFO ] 2024-01-23 09:31:18.072 [main] subscriptionofnewsletter_stepdef - Clicking on login link
+[INFO ] 2024-01-23 09:31:20.728 [main] subscriptionofnewsletter_stepdef - Entering the Email id
+[INFO ] 2024-01-23 09:31:22.908 [main] subscriptionofnewsletter_stepdef - Entering the Password
+[INFO ] 2024-01-23 09:31:25.070 [main] subscriptionofnewsletter_stepdef - Clicking on login button
+[INFO ] 2024-01-23 09:31:28.177 [main] subscriptionofnewsletter_stepdef - Entering the signup mail id
+[INFO ] 2024-01-23 09:31:32.322 [main] subscriptionofnewsletter_stepdef - Clicking on Subscribe
+[INFO ] 2024-01-23 09:31:37.621 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 09:31:41.983 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 09:31:55.085 [main] subscriptionofnewsletter_stepdef - Navigating to the URL
+[INFO ] 2024-01-23 09:31:56.157 [main] subscriptionofnewsletter_stepdef - Clicking on login link
+[INFO ] 2024-01-23 09:31:59.340 [main] subscriptionofnewsletter_stepdef - Entering the Email id
+[INFO ] 2024-01-23 09:32:01.555 [main] subscriptionofnewsletter_stepdef - Entering the Password
+[INFO ] 2024-01-23 09:32:03.698 [main] subscriptionofnewsletter_stepdef - Clicking on login button
+[INFO ] 2024-01-23 09:32:06.736 [main] subscriptionofnewsletter_stepdef - Entering the signup mail id
+[INFO ] 2024-01-23 09:32:10.920 [main] subscriptionofnewsletter_stepdef - Clicking on Subscribe
+[INFO ] 2024-01-23 09:32:16.228 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 09:32:20.789 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 09:32:33.738 [main] subscriptionofnewsletter_stepdef - Navigating to the URL
+[INFO ] 2024-01-23 09:32:34.813 [main] subscriptionofnewsletter_stepdef - Clicking on login link
+[INFO ] 2024-01-23 09:32:37.474 [main] subscriptionofnewsletter_stepdef - Entering the Email id
+[INFO ] 2024-01-23 09:32:39.597 [main] subscriptionofnewsletter_stepdef - Entering the Password
+[INFO ] 2024-01-23 09:32:41.728 [main] subscriptionofnewsletter_stepdef - Clicking on login button
+[INFO ] 2024-01-23 09:32:45.447 [main] subscriptionofnewsletter_stepdef - Entering the signup mail id
+[INFO ] 2024-01-23 09:32:49.617 [main] subscriptionofnewsletter_stepdef - Clicking on Subscribe
+[INFO ] 2024-01-23 09:32:54.895 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 09:32:58.719 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 09:33:13.333 [main] subscriptionofnewsletter_stepdef - Navigating to the URL
+[INFO ] 2024-01-23 09:33:14.979 [main] subscriptionofnewsletter_stepdef - Clicking on login link
+[INFO ] 2024-01-23 09:33:17.967 [main] subscriptionofnewsletter_stepdef - Entering the Email id
+[INFO ] 2024-01-23 09:33:20.146 [main] subscriptionofnewsletter_stepdef - Entering the Password
+[INFO ] 2024-01-23 09:33:22.304 [main] subscriptionofnewsletter_stepdef - Clicking on login button
+[INFO ] 2024-01-23 09:33:25.806 [main] subscriptionofnewsletter_stepdef - Entering the signup mail id
+[INFO ] 2024-01-23 09:33:30.280 [main] subscriptionofnewsletter_stepdef - Clicking on Subscribe
+[INFO ] 2024-01-23 09:33:35.859 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 09:33:40.201 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 09:33:55.182 [main] subscriptionofnewsletter_stepdef - Navigating to the URL
+[INFO ] 2024-01-23 09:33:56.281 [main] subscriptionofnewsletter_stepdef - Clicking on login link
+[INFO ] 2024-01-23 09:33:59.304 [main] subscriptionofnewsletter_stepdef - Entering the Email id
+[INFO ] 2024-01-23 09:34:01.493 [main] subscriptionofnewsletter_stepdef - Entering the Password
+[INFO ] 2024-01-23 09:34:03.634 [main] subscriptionofnewsletter_stepdef - Clicking on login button
+[INFO ] 2024-01-23 09:34:06.675 [main] subscriptionofnewsletter_stepdef - Entering the signup mail id
+[INFO ] 2024-01-23 09:34:10.850 [main] subscriptionofnewsletter_stepdef - Clicking on Subscribe
+[INFO ] 2024-01-23 09:34:16.146 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 09:34:21.051 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 09:34:33.549 [main] subscriptionofnewsletter_stepdef - Navigating to the URL
+[INFO ] 2024-01-23 09:34:34.768 [main] subscriptionofnewsletter_stepdef - Clicking on login link
+[INFO ] 2024-01-23 09:34:37.428 [main] subscriptionofnewsletter_stepdef - Entering the Email id
+[INFO ] 2024-01-23 09:34:39.585 [main] subscriptionofnewsletter_stepdef - Entering the Password
+[INFO ] 2024-01-23 09:34:41.720 [main] subscriptionofnewsletter_stepdef - Clicking on login button
+[INFO ] 2024-01-23 09:34:45.309 [main] subscriptionofnewsletter_stepdef - Entering the signup mail id
+[INFO ] 2024-01-23 09:34:49.463 [main] subscriptionofnewsletter_stepdef - Clicking on Subscribe
+[INFO ] 2024-01-23 09:34:54.810 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 09:34:58.446 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 09:35:13.511 [main] subscriptionofnewsletter_stepdef - Navigating to the URL
+[INFO ] 2024-01-23 09:35:14.599 [main] subscriptionofnewsletter_stepdef - Clicking on login link
+[INFO ] 2024-01-23 09:35:17.321 [main] subscriptionofnewsletter_stepdef - Entering the Email id
+[INFO ] 2024-01-23 09:35:19.500 [main] subscriptionofnewsletter_stepdef - Entering the Password
+[INFO ] 2024-01-23 09:35:21.663 [main] subscriptionofnewsletter_stepdef - Clicking on login button
+[INFO ] 2024-01-23 09:35:25.116 [main] subscriptionofnewsletter_stepdef - Entering the signup mail id
+[INFO ] 2024-01-23 09:35:29.315 [main] subscriptionofnewsletter_stepdef - Clicking on Subscribe
+[INFO ] 2024-01-23 09:35:34.416 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 09:35:49.030 [main] subscriptionofnewsletter_stepdef - Navigating to the URL
+[INFO ] 2024-01-23 09:35:50.084 [main] subscriptionofnewsletter_stepdef - Clicking on login link
+[INFO ] 2024-01-23 09:35:52.747 [main] subscriptionofnewsletter_stepdef - Entering the Email id
+[INFO ] 2024-01-23 09:35:54.896 [main] subscriptionofnewsletter_stepdef - Entering the Password
+[INFO ] 2024-01-23 09:35:57.029 [main] subscriptionofnewsletter_stepdef - Clicking on login button
+[INFO ] 2024-01-23 09:36:00.521 [main] subscriptionofnewsletter_stepdef - Entering the signup mail id
+[INFO ] 2024-01-23 09:36:04.694 [main] subscriptionofnewsletter_stepdef - Clicking on Subscribe
+[INFO ] 2024-01-23 09:36:09.802 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 09:36:24.798 [main] subscriptionofnewsletter_stepdef - Navigating to the URL
+[INFO ] 2024-01-23 09:36:25.886 [main] subscriptionofnewsletter_stepdef - Clicking on login link
+[INFO ] 2024-01-23 09:36:28.909 [main] subscriptionofnewsletter_stepdef - Entering the Email id
+[INFO ] 2024-01-23 09:36:31.078 [main] subscriptionofnewsletter_stepdef - Entering the Password
+[INFO ] 2024-01-23 09:36:33.235 [main] subscriptionofnewsletter_stepdef - Clicking on login button
+[INFO ] 2024-01-23 09:36:36.314 [main] subscriptionofnewsletter_stepdef - Entering the signup mail id
+[INFO ] 2024-01-23 09:36:40.436 [main] subscriptionofnewsletter_stepdef - Clicking on Subscribe
+[INFO ] 2024-01-23 09:36:45.867 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 09:36:50.069 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 09:37:04.990 [main] subscriptionofnewsletter_stepdef - Navigating to the URL
+[INFO ] 2024-01-23 09:37:06.122 [main] subscriptionofnewsletter_stepdef - Clicking on login link
+[INFO ] 2024-01-23 09:37:09.202 [main] subscriptionofnewsletter_stepdef - Entering the Email id
+[INFO ] 2024-01-23 09:37:11.336 [main] subscriptionofnewsletter_stepdef - Entering the Password
+[INFO ] 2024-01-23 09:37:13.522 [main] subscriptionofnewsletter_stepdef - Clicking on login button
+[INFO ] 2024-01-23 09:37:17.245 [main] subscriptionofnewsletter_stepdef - Entering the signup mail id
+[INFO ] 2024-01-23 09:37:21.521 [main] subscriptionofnewsletter_stepdef - Clicking on Subscribe
+[INFO ] 2024-01-23 09:37:26.886 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 09:37:30.809 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 09:37:40.820 [main] subscriptionofnewsletter_stepdef - Navigating to the URL
+[INFO ] 2024-01-23 09:37:41.902 [main] subscriptionofnewsletter_stepdef - Clicking on login link
+[INFO ] 2024-01-23 09:37:44.599 [main] subscriptionofnewsletter_stepdef - Entering the Email id
+[INFO ] 2024-01-23 09:37:46.748 [main] subscriptionofnewsletter_stepdef - Entering the Password
+[INFO ] 2024-01-23 09:37:48.918 [main] subscriptionofnewsletter_stepdef - Clicking on login button
+[INFO ] 2024-01-23 09:37:52.568 [main] subscriptionofnewsletter_stepdef - Entering the signup mail id
+[INFO ] 2024-01-23 09:37:57.338 [main] subscriptionofnewsletter_stepdef - Clicking on Subscribe
+[INFO ] 2024-01-23 09:38:03.016 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 09:38:06.701 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 10:05:52.509 [main] RegistrationStepDef - user is on the home page
+[INFO ] 2024-01-23 10:05:55.382 [main] RegistrationStepDef - user is on the register page
+[INFO ] 2024-01-23 10:05:57.618 [main] RegistrationStepDef - user enters first name
+[INFO ] 2024-01-23 10:05:57.973 [main] RegistrationStepDef - user enters last name
+[INFO ] 2024-01-23 10:05:58.278 [main] RegistrationStepDef - user enters Email ID
+[INFO ] 2024-01-23 10:05:58.543 [main] RegistrationStepDef - user enters password
+[INFO ] 2024-01-23 10:05:58.812 [main] RegistrationStepDef - user enters confirm password
+[INFO ] 2024-01-23 10:06:13.794 [main] RegistrationStepDef - user is on the home page
+[INFO ] 2024-01-23 10:06:16.663 [main] RegistrationStepDef - user is on the register page
+[INFO ] 2024-01-23 10:06:17.130 [main] RegistrationStepDef - user enters first name
+[INFO ] 2024-01-23 10:06:17.390 [main] RegistrationStepDef - user enters last name
+[INFO ] 2024-01-23 10:06:17.888 [main] RegistrationStepDef - user enters Email ID
+[INFO ] 2024-01-23 10:06:18.194 [main] RegistrationStepDef - user enters password
+[INFO ] 2024-01-23 10:06:18.526 [main] RegistrationStepDef - user enters confirm password
+[INFO ] 2024-01-23 10:06:35.643 [main] RegistrationStepDef - user is on the home page
+[INFO ] 2024-01-23 10:06:36.484 [main] RegistrationStepDef - user is on the register page
+[INFO ] 2024-01-23 10:06:36.900 [main] RegistrationStepDef - user enters first name
+[INFO ] 2024-01-23 10:06:37.153 [main] RegistrationStepDef - user enters last name
+[INFO ] 2024-01-23 10:06:37.478 [main] RegistrationStepDef - user enters Email ID
+[INFO ] 2024-01-23 10:06:37.683 [main] RegistrationStepDef - user enters password
+[INFO ] 2024-01-23 10:06:37.953 [main] RegistrationStepDef - user enters confirm password
+[INFO ] 2024-01-23 10:06:53.963 [main] RegistrationStepDef - user is on the home page
+[INFO ] 2024-01-23 10:06:54.806 [main] RegistrationStepDef - user is on the register page
+[INFO ] 2024-01-23 10:06:55.321 [main] RegistrationStepDef - user enters first name
+[INFO ] 2024-01-23 10:06:55.574 [main] RegistrationStepDef - user enters last name
+[INFO ] 2024-01-23 10:06:55.928 [main] RegistrationStepDef - user enters Email ID
+[INFO ] 2024-01-23 10:06:56.234 [main] RegistrationStepDef - user enters password
+[INFO ] 2024-01-23 10:06:56.499 [main] RegistrationStepDef - user enters confirm password
+[INFO ] 2024-01-23 10:07:12.625 [main] RegistrationStepDef - user is on the home page
+[INFO ] 2024-01-23 10:07:13.457 [main] RegistrationStepDef - user is on the register page
+[INFO ] 2024-01-23 10:07:13.858 [main] RegistrationStepDef - user enters first name
+[INFO ] 2024-01-23 10:07:14.111 [main] RegistrationStepDef - user enters last name
+[INFO ] 2024-01-23 10:07:14.426 [main] RegistrationStepDef - user enters Email ID
+[INFO ] 2024-01-23 10:07:14.678 [main] RegistrationStepDef - user enters password
+[INFO ] 2024-01-23 10:07:14.902 [main] RegistrationStepDef - user enters confirm password
+[INFO ] 2024-01-23 10:07:31.590 [main] RegistrationStepDef - user is on the home page
+[INFO ] 2024-01-23 10:07:32.427 [main] RegistrationStepDef - user is on the register page
+[INFO ] 2024-01-23 10:07:32.816 [main] RegistrationStepDef - user enters first name
+[INFO ] 2024-01-23 10:07:33.030 [main] RegistrationStepDef - user enters last name
+[INFO ] 2024-01-23 10:07:33.505 [main] RegistrationStepDef - user enters Email ID
+[INFO ] 2024-01-23 10:07:33.786 [main] RegistrationStepDef - user enters password
+[INFO ] 2024-01-23 10:07:34.008 [main] RegistrationStepDef - user enters confirm password
+[INFO ] 2024-01-23 10:07:51.216 [main] RegistrationStepDef - user is on the home page
+[INFO ] 2024-01-23 10:07:52.036 [main] RegistrationStepDef - user is on the register page
+[INFO ] 2024-01-23 10:07:52.439 [main] RegistrationStepDef - user enters first name
+[INFO ] 2024-01-23 10:07:52.657 [main] RegistrationStepDef - user enters last name
+[INFO ] 2024-01-23 10:07:52.817 [main] RegistrationStepDef - user enters Email ID
+[INFO ] 2024-01-23 10:07:53.019 [main] RegistrationStepDef - user enters password
+[INFO ] 2024-01-23 10:07:53.224 [main] RegistrationStepDef - user enters confirm password
+[INFO ] 2024-01-23 10:08:09.182 [main] RegistrationStepDef - user is on the home page
+[INFO ] 2024-01-23 10:08:10.176 [main] RegistrationStepDef - user is on the register page
+[INFO ] 2024-01-23 10:08:10.502 [main] RegistrationStepDef - user enters first name
+[INFO ] 2024-01-23 10:08:10.701 [main] RegistrationStepDef - user enters last name
+[INFO ] 2024-01-23 10:08:10.833 [main] RegistrationStepDef - user enters Email ID
+[INFO ] 2024-01-23 10:08:11.042 [main] RegistrationStepDef - user enters password
+[INFO ] 2024-01-23 10:08:11.302 [main] RegistrationStepDef - user enters confirm password
+[INFO ] 2024-01-23 10:08:25.017 [main] RegistrationStepDef - user is on the home page
+[INFO ] 2024-01-23 10:08:27.990 [main] RegistrationStepDef - user is on the register page
+[INFO ] 2024-01-23 10:08:28.383 [main] RegistrationStepDef - user enters first name
+[INFO ] 2024-01-23 10:08:28.726 [main] RegistrationStepDef - user enters last name
+[INFO ] 2024-01-23 10:08:28.939 [main] RegistrationStepDef - user enters Email ID
+[INFO ] 2024-01-23 10:08:29.168 [main] RegistrationStepDef - user enters password
+[INFO ] 2024-01-23 10:08:29.377 [main] RegistrationStepDef - user enters confirm password
+[INFO ] 2024-01-23 10:08:43.668 [main] RegistrationStepDef - user is on the home page
+[INFO ] 2024-01-23 10:08:46.553 [main] RegistrationStepDef - user is on the register page
+[INFO ] 2024-01-23 10:08:46.888 [main] RegistrationStepDef - user enters first name
+[INFO ] 2024-01-23 10:08:47.111 [main] RegistrationStepDef - user enters last name
+[INFO ] 2024-01-23 10:08:47.369 [main] RegistrationStepDef - user enters Email ID
+[INFO ] 2024-01-23 10:08:47.544 [main] RegistrationStepDef - user enters password
+[INFO ] 2024-01-23 10:08:47.678 [main] RegistrationStepDef - user enters confirm password
+[INFO ] 2024-01-23 10:09:04.251 [main] RegistrationStepDef - user is on the home page
+[INFO ] 2024-01-23 10:09:05.685 [main] RegistrationStepDef - user is on the register page
+[INFO ] 2024-01-23 10:09:06.161 [main] RegistrationStepDef - user enters first name
+[INFO ] 2024-01-23 10:09:06.337 [main] RegistrationStepDef - user enters last name
+[INFO ] 2024-01-23 10:09:06.545 [main] RegistrationStepDef - user enters Email ID
+[INFO ] 2024-01-23 10:09:06.741 [main] RegistrationStepDef - user enters password
+[INFO ] 2024-01-23 10:09:06.932 [main] RegistrationStepDef - user enters confirm password
+[INFO ] 2024-01-23 10:09:23.605 [main] RegistrationStepDef - user is on the home page
+[INFO ] 2024-01-23 10:09:24.451 [main] RegistrationStepDef - user is on the register page
+[INFO ] 2024-01-23 10:09:24.836 [main] RegistrationStepDef - user enters first name
+[INFO ] 2024-01-23 10:09:25.011 [main] RegistrationStepDef - user enters last name
+[INFO ] 2024-01-23 10:09:25.301 [main] RegistrationStepDef - user enters Email ID
+[INFO ] 2024-01-23 10:09:25.528 [main] RegistrationStepDef - user enters password
+[INFO ] 2024-01-23 10:09:25.766 [main] RegistrationStepDef - user enters confirm password
+[INFO ] 2024-01-23 10:09:43.087 [main] RegistrationStepDef - user is on the home page
+[INFO ] 2024-01-23 10:09:43.991 [main] RegistrationStepDef - user is on the register page
+[INFO ] 2024-01-23 10:09:44.342 [main] RegistrationStepDef - user enters first name
+[INFO ] 2024-01-23 10:09:44.536 [main] RegistrationStepDef - user enters last name
+[INFO ] 2024-01-23 10:09:44.811 [main] RegistrationStepDef - user enters Email ID
+[INFO ] 2024-01-23 10:09:45.071 [main] RegistrationStepDef - user enters password
+[INFO ] 2024-01-23 10:09:45.256 [main] RegistrationStepDef - user enters confirm password
+[INFO ] 2024-01-23 10:10:01.753 [main] Logindemostepdef - user Navigates To Login Page
+[INFO ] 2024-01-23 10:10:13.585 [main] Logindemostepdef - user Enters email And Password
+[INFO ] 2024-01-23 10:10:13.966 [main] Logindemostepdef - clicks Login Button
+[INFO ] 2024-01-23 10:10:15.496 [main] Logindemostepdef - message Should Be Displayed
+[INFO ] 2024-01-23 10:10:29.239 [main] Logindemostepdef - user Navigates To Login Page
+[INFO ] 2024-01-23 10:10:41.854 [main] Logindemostepdef - user Enters email And Password
+[INFO ] 2024-01-23 10:10:42.139 [main] Logindemostepdef - clicks Login Button
+[INFO ] 2024-01-23 10:10:43.226 [main] Logindemostepdef - message Should Be Displayed
+[INFO ] 2024-01-23 10:10:56.651 [main] Logindemostepdef - user Navigates To Login Page
+[INFO ] 2024-01-23 10:11:09.080 [main] Logindemostepdef - user Enters email And Password
+[INFO ] 2024-01-23 10:11:09.376 [main] Logindemostepdef - clicks Login Button
+[INFO ] 2024-01-23 10:11:09.950 [main] Logindemostepdef - message Should Be Displayed
+[INFO ] 2024-01-23 10:11:25.281 [main] Logindemostepdef - user Navigates To Login Page
+[INFO ] 2024-01-23 10:11:37.408 [main] Logindemostepdef - user Enters email And Password
+[INFO ] 2024-01-23 10:11:37.690 [main] Logindemostepdef - clicks Login Button
+[INFO ] 2024-01-23 10:11:38.710 [main] Logindemostepdef - message Should Be Displayed
+[INFO ] 2024-01-23 10:11:52.031 [main] Logindemostepdef - user Navigates To Login Page
+[INFO ] 2024-01-23 10:12:03.831 [main] Logindemostepdef - user Enters email And Password
+[INFO ] 2024-01-23 10:12:04.185 [main] Logindemostepdef - clicks Login Button
+[INFO ] 2024-01-23 10:12:05.348 [main] Logindemostepdef - message Should Be Displayed
+[INFO ] 2024-01-23 10:12:19.430 [main] Logindemostepdef - user Navigates To Login Page
+[INFO ] 2024-01-23 10:12:31.037 [main] Logindemostepdef - user Enters email And Password
+[INFO ] 2024-01-23 10:12:31.337 [main] Logindemostepdef - clicks Login Button
+[INFO ] 2024-01-23 10:12:32.354 [main] Logindemostepdef - message Should Be Displayed
+[INFO ] 2024-01-23 10:12:44.928 [main] Logindemostepdef - user Navigates To Login Page
+[INFO ] 2024-01-23 10:12:56.496 [main] Logindemostepdef - user Enters email And Password
+[INFO ] 2024-01-23 10:12:56.762 [main] Logindemostepdef - clicks Login Button
+[INFO ] 2024-01-23 10:12:57.412 [main] Logindemostepdef - message Should Be Displayed
+[INFO ] 2024-01-23 10:13:11.074 [main] Logindemostepdef - user Navigates To Login Page
+[INFO ] 2024-01-23 10:13:22.284 [main] Logindemostepdef - user Enters email And Password
+[INFO ] 2024-01-23 10:13:22.566 [main] Logindemostepdef - clicks Login Button
+[INFO ] 2024-01-23 10:13:23.645 [main] Logindemostepdef - message Should Be Displayed
+[INFO ] 2024-01-23 10:13:36.436 [main] Logindemostepdef - user Navigates To Login Page
+[INFO ] 2024-01-23 10:13:50.393 [main] Logindemostepdef - user Enters email And Password
+[INFO ] 2024-01-23 10:13:50.675 [main] Logindemostepdef - clicks Login Button
+[INFO ] 2024-01-23 10:13:51.406 [main] Logindemostepdef - message Should Be Displayed
+[INFO ] 2024-01-23 10:14:03.877 [main] Logindemostepdef - user Navigates To Login Page
+[INFO ] 2024-01-23 10:14:15.359 [main] Logindemostepdef - user Enters email And Password
+[INFO ] 2024-01-23 10:14:15.628 [main] Logindemostepdef - clicks Login Button
+[INFO ] 2024-01-23 10:14:16.130 [main] Logindemostepdef - message Should Be Displayed
+[INFO ] 2024-01-23 10:14:29.110 [main] Logindemostepdef - user Navigates To Login Page
+[INFO ] 2024-01-23 10:14:42.187 [main] Logindemostepdef - user Enters email And Password
+[INFO ] 2024-01-23 10:14:42.385 [main] Logindemostepdef - clicks Login Button
+[INFO ] 2024-01-23 10:14:42.902 [main] Logindemostepdef - message Should Be Displayed
+[INFO ] 2024-01-23 10:14:56.287 [main] Logindemostepdef - user Navigates To Login Page
+[INFO ] 2024-01-23 10:15:07.665 [main] Logindemostepdef - user Enters email And Password
+[INFO ] 2024-01-23 10:15:07.857 [main] Logindemostepdef - clicks Login Button
+[INFO ] 2024-01-23 10:15:08.849 [main] Logindemostepdef - message Should Be Displayed
+[INFO ] 2024-01-23 10:15:21.220 [main] Logindemostepdef - user Navigates To Login Page
+[INFO ] 2024-01-23 10:15:32.572 [main] Logindemostepdef - user Enters email And Password
+[INFO ] 2024-01-23 10:15:32.819 [main] Logindemostepdef - clicks Login Button
+[INFO ] 2024-01-23 10:15:33.955 [main] Logindemostepdef - message Should Be Displayed
+[INFO ] 2024-01-23 10:15:54.769 [main] AddtocartStepdef - Navigating to the URL
+[INFO ] 2024-01-23 10:15:58.140 [main] AddtocartStepdef - Performing the login process
+[INFO ] 2024-01-23 10:16:00.973 [main] AddtocartStepdef - Validating the login process
+[INFO ] 2024-01-23 10:16:03.056 [main] AddtocartStepdef - Clicking on the book menu
+[INFO ] 2024-01-23 10:16:04.630 [main] AddtocartStepdef - Validating add to cart buttons for all books
+[INFO ] 2024-01-23 10:16:33.744 [main] AddtocartStepdef - Navigating to the URL
+[INFO ] 2024-01-23 10:16:37.160 [main] AddtocartStepdef - Performing the login process
+[INFO ] 2024-01-23 10:16:39.352 [main] AddtocartStepdef - Validating the login process
+[INFO ] 2024-01-23 10:16:41.411 [main] AddtocartStepdef - Clicking on the book menu
+[INFO ] 2024-01-23 10:16:42.736 [main] AddtocartStepdef - Validating add to cart buttons for all books
+[INFO ] 2024-01-23 10:17:07.245 [main] AddtocartStepdef - Navigating to the URL
+[INFO ] 2024-01-23 10:17:11.195 [main] AddtocartStepdef - Performing the login process
+[INFO ] 2024-01-23 10:17:13.563 [main] AddtocartStepdef - Validating the login process
+[INFO ] 2024-01-23 10:17:15.606 [main] AddtocartStepdef - Clicking on the book menu
+[INFO ] 2024-01-23 10:17:16.704 [main] AddtocartStepdef - Validating add to cart buttons for all books
+[INFO ] 2024-01-23 10:17:29.081 [main] AddtocartStepdef - Navigating to the URL
+[INFO ] 2024-01-23 10:17:32.411 [main] AddtocartStepdef - Performing the login process
+[INFO ] 2024-01-23 10:17:34.919 [main] AddtocartStepdef - Validating the login process
+[INFO ] 2024-01-23 10:17:36.966 [main] AddtocartStepdef - Clicking on the book menu
+[INFO ] 2024-01-23 10:17:38.229 [main] AddtocartStepdef - Adding the third book to the cart
+[INFO ] 2024-01-23 10:17:44.338 [main] AddtocartStepdef - Validating the third book is successfully added to the cart
+[INFO ] 2024-01-23 10:17:57.964 [main] AddtocartStepdef - Navigating to the URL
+[INFO ] 2024-01-23 10:18:01.076 [main] AddtocartStepdef - Performing the login process
+[INFO ] 2024-01-23 10:18:03.860 [main] AddtocartStepdef - Validating the login process
+[INFO ] 2024-01-23 10:18:05.945 [main] AddtocartStepdef - Clicking on the book menu
+[INFO ] 2024-01-23 10:18:07.129 [main] AddtocartStepdef - Adding any 3 products to the cart
+[INFO ] 2024-01-23 10:18:10.523 [main] AddtocartStepdef - Deleting any two products from the cart
+[INFO ] 2024-01-23 10:18:15.629 [main] AddtocartStepdef - Validating the cart after deleting the products
+[INFO ] 2024-01-23 10:18:32.062 [main] WishListStepDefinition - User navigates to the URL
+[INFO ] 2024-01-23 10:18:36.261 [main] WishListStepDefinition - User performs the login process
+[INFO ] 2024-01-23 10:18:38.871 [main] WishListStepDefinition - Validate the login is successfulL
+[INFO ] 2024-01-23 10:18:38.927 [main] WishListStepDefinition - the user is on the Demo Web Shop homepage
+[INFO ] 2024-01-23 10:18:40.204 [main] WishListStepDefinition - the user clicks on {string}
+[INFO ] 2024-01-23 10:18:40.999 [main] WishListStepDefinition - the user adds products to the wishlist
+[INFO ] 2024-01-23 10:18:47.472 [main] WishListStepDefinition - the user goes to the Wishlist
+[INFO ] 2024-01-23 10:18:49.055 [main] WishListStepDefinition - the user removes a product from the Wishlist
+[INFO ] 2024-01-23 10:18:51.106 [main] WishListStepDefinition - the Wishlist should be updated accordingly
+[INFO ] 2024-01-23 10:19:04.299 [main] checkoutstepdef - User navigates to the URL
+[INFO ] 2024-01-23 10:19:07.767 [main] checkoutstepdef - User performs the login process
+[INFO ] 2024-01-23 10:19:09.991 [main] checkoutstepdef - Validate the login is successful
+[INFO ] 2024-01-23 10:19:12.030 [main] checkoutstepdef - User clicks on book menu
+[INFO ] 2024-01-23 10:19:15.675 [main] checkoutstepdef - User add third book to cart
+[INFO ] 2024-01-23 10:19:21.499 [main] checkoutstepdef - User clicks on the checkbox
+[INFO ] 2024-01-23 10:19:24.612 [main] checkoutstepdef - User should able to checkout
+[INFO ] 2024-01-23 10:19:29.640 [main] checkoutstepdef - billing information
+[INFO ] 2024-01-23 10:19:31.789 [main] checkoutstepdef - enters valid shipping
+[INFO ] 2024-01-23 10:19:35.928 [main] checkoutstepdef - select shipping type
+[INFO ] 2024-01-23 10:19:42.146 [main] checkoutstepdef - selects a payment method
+[INFO ] 2024-01-23 10:20:12.092 [main] checkoutstepdef - User navigates to the URL
+[INFO ] 2024-01-23 10:20:15.749 [main] checkoutstepdef - User performs the login process with card
+[INFO ] 2024-01-23 10:20:17.914 [main] checkoutstepdef - Validate the login is successful
+[INFO ] 2024-01-23 10:20:19.963 [main] checkoutstepdef - User clicks on book menu
+[INFO ] 2024-01-23 10:20:23.240 [main] checkoutstepdef - User add third book to cart
+[INFO ] 2024-01-23 10:20:29.532 [main] checkoutstepdef - User clicks on the checkbox
+[INFO ] 2024-01-23 10:20:32.650 [main] checkoutstepdef - User should able to checkout
+[INFO ] 2024-01-23 10:20:37.399 [main] checkoutstepdef - billing information
+[INFO ] 2024-01-23 10:20:39.540 [main] checkoutstepdef - enters valid shipping
+[INFO ] 2024-01-23 10:20:43.650 [main] checkoutstepdef - select shipping type
+[INFO ] 2024-01-23 10:20:49.859 [main] checkoutstepdef - selects a payment with card
+[INFO ] 2024-01-23 10:20:54.075 [main] checkoutstepdef - enters payment details
+[INFO ] 2024-01-23 10:20:56.561 [main] checkoutstepdef - completes the purchase
+[INFO ] 2024-01-23 10:21:06.380 [main] checkoutstepdef - the user should see a confirmation message
+[INFO ] 2024-01-23 10:21:23.444 [main] checkoutstepdef - User navigates to the URL
+[INFO ] 2024-01-23 10:21:26.741 [main] checkoutstepdef - User performs the login process with card
+[INFO ] 2024-01-23 10:21:29.084 [main] checkoutstepdef - Validate the login is successful
+[INFO ] 2024-01-23 10:21:31.144 [main] checkoutstepdef - User clicks on book menu
+[INFO ] 2024-01-23 10:21:34.436 [main] checkoutstepdef - User add third book to cart
+[INFO ] 2024-01-23 10:21:40.657 [main] checkoutstepdef - User clicks on the checkbox
+[INFO ] 2024-01-23 10:21:43.784 [main] checkoutstepdef - User should able to checkout
+[INFO ] 2024-01-23 10:21:48.579 [main] checkoutstepdef - billing information
+[INFO ] 2024-01-23 10:21:50.806 [main] checkoutstepdef - enters valid shipping
+[INFO ] 2024-01-23 10:21:54.953 [main] checkoutstepdef - select shipping type
+[INFO ] 2024-01-23 10:22:01.178 [main] checkoutstepdef - selects a payment with card
+[INFO ] 2024-01-23 10:22:05.475 [main] checkoutstepdef - enters payment details
+[INFO ] 2024-01-23 10:22:07.937 [main] checkoutstepdef - completes the purchase
+[INFO ] 2024-01-23 10:22:17.688 [main] checkoutstepdef - the user should see a confirmation message
+[INFO ] 2024-01-23 10:22:34.106 [main] checkoutstepdef - User navigates to the URL
+[INFO ] 2024-01-23 10:22:37.181 [main] checkoutstepdef - User performs the login process with card
+[INFO ] 2024-01-23 10:22:39.917 [main] checkoutstepdef - Validate the login is successful
+[INFO ] 2024-01-23 10:22:41.963 [main] checkoutstepdef - User clicks on book menu
+[INFO ] 2024-01-23 10:22:45.227 [main] checkoutstepdef - User add third book to cart
+[INFO ] 2024-01-23 10:22:50.664 [main] checkoutstepdef - User clicks on the checkbox
+[INFO ] 2024-01-23 10:22:53.776 [main] checkoutstepdef - User should able to checkout
+[INFO ] 2024-01-23 10:22:58.513 [main] checkoutstepdef - billing information
+[INFO ] 2024-01-23 10:23:00.698 [main] checkoutstepdef - enters valid shipping
+[INFO ] 2024-01-23 10:23:04.814 [main] checkoutstepdef - select shipping type
+[INFO ] 2024-01-23 10:23:11.038 [main] checkoutstepdef - selects a payment with card
+[INFO ] 2024-01-23 10:23:15.249 [main] checkoutstepdef - enters payment details
+[INFO ] 2024-01-23 10:23:17.663 [main] checkoutstepdef - completes the purchase
+[INFO ] 2024-01-23 10:23:27.382 [main] checkoutstepdef - the user should see a confirmation message
+[INFO ] 2024-01-23 10:23:41.466 [main] Search_step - Setting up WebDriver and Page_search.
+[INFO ] 2024-01-23 10:23:44.110 [main] Search_step - Navigating to the search page.
+[INFO ] 2024-01-23 10:23:47.316 [main] Search_step - Clicking the search button.
+[INFO ] 2024-01-23 10:23:49.532 [main] Search_step - Dismissing the pop-up.
+[INFO ] 2024-01-23 10:23:53.282 [main] Search_step - Scenario completed.
+[INFO ] 2024-01-23 10:24:03.503 [main] Search_step - Setting up WebDriver and Page_search.
+[INFO ] 2024-01-23 10:24:06.047 [main] Search_step - Navigating to the search page.
+[INFO ] 2024-01-23 10:24:09.407 [main] Search_step - Search terms from Excel sheet: [Books, Computers, 1234@SHSBDK, cellphone, Computer, shoe, smartphone, Book]
+[ERROR] 2024-01-23 10:24:10.910 [main] Search_step - Screenshot captured: FailureBooks_1705985650901.png
+[INFO ] 2024-01-23 10:24:10.911 [main] Search_step - Retrying search validation for: Books. Attempt: 1
+[ERROR] 2024-01-23 10:24:12.046 [main] Search_step - Screenshot captured: FailureBooks_1705985652040.png
+[INFO ] 2024-01-23 10:24:12.046 [main] Search_step - Retrying search validation for: Books. Attempt: 2
+[ERROR] 2024-01-23 10:24:14.319 [main] Search_step - Screenshot captured: FailureComputers_1705985654313.png
+[INFO ] 2024-01-23 10:24:14.320 [main] Search_step - Retrying search validation for: Computers. Attempt: 1
+[ERROR] 2024-01-23 10:24:15.455 [main] Search_step - Screenshot captured: FailureComputers_1705985655449.png
+[INFO ] 2024-01-23 10:24:15.455 [main] Search_step - Retrying search validation for: Computers. Attempt: 2
+[ERROR] 2024-01-23 10:24:17.644 [main] Search_step - Screenshot captured: Failure1234@SHSBDK_1705985657640.png
+[INFO ] 2024-01-23 10:24:17.644 [main] Search_step - Retrying search validation for: 1234@SHSBDK. Attempt: 1
+[ERROR] 2024-01-23 10:24:18.784 [main] Search_step - Screenshot captured: Failure1234@SHSBDK_1705985658779.png
+[INFO ] 2024-01-23 10:24:18.784 [main] Search_step - Retrying search validation for: 1234@SHSBDK. Attempt: 2
+[ERROR] 2024-01-23 10:24:21.581 [main] Search_step - Screenshot captured: Failurecellphone_1705985661564.png
+[INFO ] 2024-01-23 10:24:21.581 [main] Search_step - Retrying search validation for: cellphone. Attempt: 1
+[ERROR] 2024-01-23 10:24:22.715 [main] Search_step - Screenshot captured: Failurecellphone_1705985662710.png
+[INFO ] 2024-01-23 10:24:22.716 [main] Search_step - Retrying search validation for: cellphone. Attempt: 2
+[INFO ] 2024-01-23 10:24:25.311 [main] Search_step - Search results displayed for: Computer
+[INFO ] 2024-01-23 10:24:27.539 [main] Search_step - Search results displayed for: shoe
+[INFO ] 2024-01-23 10:24:29.625 [main] Search_step - Search results displayed for: smartphone
+[INFO ] 2024-01-23 10:24:31.422 [main] Search_step - Search results displayed for: Book
+[INFO ] 2024-01-23 10:24:31.446 [main] Search_step - Search results displayed for: <search_term>
+[INFO ] 2024-01-23 10:24:34.701 [main] Search_step - Scenario completed.
+[INFO ] 2024-01-23 10:24:47.360 [main] CommunitypollStepdef - URL
+[INFO ] 2024-01-23 10:24:50.566 [main] CommunitypollStepdef - Users performs to the Login
+[INFO ] 2024-01-23 10:24:53.694 [main] CommunitypollStepdef - Users select one option from poll
+[INFO ] 2024-01-23 10:25:07.374 [main] CommunitypollStepdef - URL
+[INFO ] 2024-01-23 10:25:10.505 [main] CommunitypollStepdef - Users performs to the Login
+[INFO ] 2024-01-23 10:25:13.250 [main] CommunitypollStepdef - Users select one option from poll
+[INFO ] 2024-01-23 10:25:25.758 [main] CommunitypollStepdef - URL
+[INFO ] 2024-01-23 10:25:29.287 [main] CommunitypollStepdef - Users performs to the Login
+[INFO ] 2024-01-23 10:25:31.608 [main] CommunitypollStepdef - Users select one option from poll
+[INFO ] 2024-01-23 10:25:44.424 [main] CommunitypollStepdef - URL
+[INFO ] 2024-01-23 10:25:47.743 [main] CommunitypollStepdef - Users selects the poll  
+[INFO ] 2024-01-23 10:25:47.939 [main] CommunitypollStepdef - User Click on the vote button
+[INFO ] 2024-01-23 10:26:03.474 [main] CommunitypollStepdef - URL
+[INFO ] 2024-01-23 10:26:07.819 [main] CommunitypollStepdef - Users selects the poll  
+[INFO ] 2024-01-23 10:26:08.017 [main] CommunitypollStepdef - User Click on the vote button
+[INFO ] 2024-01-23 10:26:22.181 [main] CommunitypollStepdef - URL
+[INFO ] 2024-01-23 10:26:25.421 [main] CommunitypollStepdef - Users selects the poll  
+[INFO ] 2024-01-23 10:26:25.672 [main] CommunitypollStepdef - User Click on the vote button
+[INFO ] 2024-01-23 10:26:40.794 [main] CommunitypollStepdef - URL
+[INFO ] 2024-01-23 10:26:44.201 [main] CommunitypollStepdef - Users direct click on vote button
+[INFO ] 2024-01-23 10:26:57.684 [main] subscriptionofnewsletter_stepdef - Navigating to the URL
+[INFO ] 2024-01-23 10:27:00.867 [main] subscriptionofnewsletter_stepdef - Clicking on login link
+[INFO ] 2024-01-23 10:27:03.970 [main] subscriptionofnewsletter_stepdef - Entering the Email id
+[INFO ] 2024-01-23 10:27:06.145 [main] subscriptionofnewsletter_stepdef - Entering the Password
+[INFO ] 2024-01-23 10:27:08.300 [main] subscriptionofnewsletter_stepdef - Clicking on login button
+[INFO ] 2024-01-23 10:27:11.560 [main] subscriptionofnewsletter_stepdef - Entering the signup mail id
+[INFO ] 2024-01-23 10:27:15.786 [main] subscriptionofnewsletter_stepdef - Clicking on Subscribe
+[INFO ] 2024-01-23 10:27:20.928 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 10:27:43.584 [main] subscriptionofnewsletter_stepdef - Navigating to the URL
+[INFO ] 2024-01-23 10:27:44.635 [main] subscriptionofnewsletter_stepdef - Clicking on login link
+[INFO ] 2024-01-23 10:27:47.668 [main] subscriptionofnewsletter_stepdef - Entering the Email id
+[INFO ] 2024-01-23 10:27:49.829 [main] subscriptionofnewsletter_stepdef - Entering the Password
+[INFO ] 2024-01-23 10:27:51.965 [main] subscriptionofnewsletter_stepdef - Clicking on login button
+[INFO ] 2024-01-23 10:27:55.091 [main] subscriptionofnewsletter_stepdef - Entering the signup mail id
+[INFO ] 2024-01-23 10:27:59.283 [main] subscriptionofnewsletter_stepdef - Clicking on Subscribe
+[INFO ] 2024-01-23 10:28:04.624 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 10:28:08.468 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 10:28:27.731 [main] subscriptionofnewsletter_stepdef - Navigating to the URL
+[INFO ] 2024-01-23 10:28:28.864 [main] subscriptionofnewsletter_stepdef - Clicking on login link
+[INFO ] 2024-01-23 10:28:31.619 [main] subscriptionofnewsletter_stepdef - Entering the Email id
+[INFO ] 2024-01-23 10:28:33.750 [main] subscriptionofnewsletter_stepdef - Entering the Password
+[INFO ] 2024-01-23 10:28:35.909 [main] subscriptionofnewsletter_stepdef - Clicking on login button
+[INFO ] 2024-01-23 10:28:39.367 [main] subscriptionofnewsletter_stepdef - Entering the signup mail id
+[INFO ] 2024-01-23 10:28:43.568 [main] subscriptionofnewsletter_stepdef - Clicking on Subscribe
+[INFO ] 2024-01-23 10:28:48.923 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 10:28:52.875 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 10:29:34.547 [main] subscriptionofnewsletter_stepdef - Navigating to the URL
+[INFO ] 2024-01-23 10:29:36.489 [main] subscriptionofnewsletter_stepdef - Clicking on login link
+[INFO ] 2024-01-23 10:29:39.143 [main] subscriptionofnewsletter_stepdef - Entering the Email id
+[INFO ] 2024-01-23 10:29:41.268 [main] subscriptionofnewsletter_stepdef - Entering the Password
+[INFO ] 2024-01-23 10:29:43.402 [main] subscriptionofnewsletter_stepdef - Clicking on login button
+[INFO ] 2024-01-23 10:29:47.076 [main] subscriptionofnewsletter_stepdef - Entering the signup mail id
+[INFO ] 2024-01-23 10:29:51.285 [main] subscriptionofnewsletter_stepdef - Clicking on Subscribe
+[INFO ] 2024-01-23 10:29:56.662 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 10:30:01.323 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 10:30:19.966 [main] subscriptionofnewsletter_stepdef - Navigating to the URL
+[INFO ] 2024-01-23 10:30:21.379 [main] subscriptionofnewsletter_stepdef - Clicking on login link
+[INFO ] 2024-01-23 10:30:24.555 [main] subscriptionofnewsletter_stepdef - Entering the Email id
+[INFO ] 2024-01-23 10:30:26.738 [main] subscriptionofnewsletter_stepdef - Entering the Password
+[INFO ] 2024-01-23 10:30:28.870 [main] subscriptionofnewsletter_stepdef - Clicking on login button
+[INFO ] 2024-01-23 10:30:32.158 [main] subscriptionofnewsletter_stepdef - Entering the signup mail id
+[INFO ] 2024-01-23 10:30:36.346 [main] subscriptionofnewsletter_stepdef - Clicking on Subscribe
+[INFO ] 2024-01-23 10:30:41.699 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 10:30:46.507 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 10:31:03.210 [main] subscriptionofnewsletter_stepdef - Navigating to the URL
+[INFO ] 2024-01-23 10:31:04.579 [main] subscriptionofnewsletter_stepdef - Clicking on login link
+[INFO ] 2024-01-23 10:31:07.405 [main] subscriptionofnewsletter_stepdef - Entering the Email id
+[INFO ] 2024-01-23 10:31:09.564 [main] subscriptionofnewsletter_stepdef - Entering the Password
+[INFO ] 2024-01-23 10:31:11.754 [main] subscriptionofnewsletter_stepdef - Clicking on login button
+[INFO ] 2024-01-23 10:31:15.149 [main] subscriptionofnewsletter_stepdef - Entering the signup mail id
+[INFO ] 2024-01-23 10:31:19.475 [main] subscriptionofnewsletter_stepdef - Clicking on Subscribe
+[INFO ] 2024-01-23 10:31:24.880 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 10:31:28.608 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 10:31:45.995 [main] subscriptionofnewsletter_stepdef - Navigating to the URL
+[INFO ] 2024-01-23 10:31:47.418 [main] subscriptionofnewsletter_stepdef - Clicking on login link
+[INFO ] 2024-01-23 10:31:50.117 [main] subscriptionofnewsletter_stepdef - Entering the Email id
+[INFO ] 2024-01-23 10:31:52.260 [main] subscriptionofnewsletter_stepdef - Entering the Password
+[INFO ] 2024-01-23 10:31:54.377 [main] subscriptionofnewsletter_stepdef - Clicking on login button
+[INFO ] 2024-01-23 10:31:57.527 [main] subscriptionofnewsletter_stepdef - Entering the signup mail id
+[INFO ] 2024-01-23 10:32:01.758 [main] subscriptionofnewsletter_stepdef - Clicking on Subscribe
+[INFO ] 2024-01-23 10:32:06.926 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 10:32:26.682 [main] subscriptionofnewsletter_stepdef - Navigating to the URL
+[INFO ] 2024-01-23 10:32:28.183 [main] subscriptionofnewsletter_stepdef - Clicking on login link
+[INFO ] 2024-01-23 10:32:30.840 [main] subscriptionofnewsletter_stepdef - Entering the Email id
+[INFO ] 2024-01-23 10:32:33.005 [main] subscriptionofnewsletter_stepdef - Entering the Password
+[INFO ] 2024-01-23 10:32:35.158 [main] subscriptionofnewsletter_stepdef - Clicking on login button
+[INFO ] 2024-01-23 10:32:38.902 [main] subscriptionofnewsletter_stepdef - Entering the signup mail id
+[INFO ] 2024-01-23 10:32:43.096 [main] subscriptionofnewsletter_stepdef - Clicking on Subscribe
+[INFO ] 2024-01-23 10:32:48.423 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 10:32:52.237 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 10:33:09.585 [main] subscriptionofnewsletter_stepdef - Navigating to the URL
+[INFO ] 2024-01-23 10:33:10.867 [main] subscriptionofnewsletter_stepdef - Clicking on login link
+[INFO ] 2024-01-23 10:33:14.556 [main] subscriptionofnewsletter_stepdef - Entering the Email id
+[INFO ] 2024-01-23 10:33:16.712 [main] subscriptionofnewsletter_stepdef - Entering the Password
+[INFO ] 2024-01-23 10:33:18.856 [main] subscriptionofnewsletter_stepdef - Clicking on login button
+[INFO ] 2024-01-23 10:33:21.949 [main] subscriptionofnewsletter_stepdef - Entering the signup mail id
+[INFO ] 2024-01-23 10:33:26.122 [main] subscriptionofnewsletter_stepdef - Clicking on Subscribe
+[INFO ] 2024-01-23 10:33:31.455 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 10:33:54.019 [main] subscriptionofnewsletter_stepdef - Navigating to the URL
+[INFO ] 2024-01-23 10:33:55.418 [main] subscriptionofnewsletter_stepdef - Clicking on login link
+[INFO ] 2024-01-23 10:33:58.048 [main] subscriptionofnewsletter_stepdef - Entering the Email id
+[INFO ] 2024-01-23 10:34:00.205 [main] subscriptionofnewsletter_stepdef - Entering the Password
+[INFO ] 2024-01-23 10:34:02.334 [main] subscriptionofnewsletter_stepdef - Clicking on login button
+[INFO ] 2024-01-23 10:34:05.825 [main] subscriptionofnewsletter_stepdef - Entering the signup mail id
+[INFO ] 2024-01-23 10:34:09.994 [main] subscriptionofnewsletter_stepdef - Clicking on Subscribe
+[INFO ] 2024-01-23 10:34:15.351 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 10:34:20.083 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 10:34:51.400 [main] subscriptionofnewsletter_stepdef - Navigating to the URL
+[INFO ] 2024-01-23 10:34:52.610 [main] subscriptionofnewsletter_stepdef - Clicking on login link
+[INFO ] 2024-01-23 10:34:55.262 [main] subscriptionofnewsletter_stepdef - Entering the Email id
+[INFO ] 2024-01-23 10:34:57.404 [main] subscriptionofnewsletter_stepdef - Entering the Password
+[INFO ] 2024-01-23 10:34:59.576 [main] subscriptionofnewsletter_stepdef - Clicking on login button
+[INFO ] 2024-01-23 10:35:02.681 [main] subscriptionofnewsletter_stepdef - Entering the signup mail id
+[INFO ] 2024-01-23 10:35:06.802 [main] subscriptionofnewsletter_stepdef - Clicking on Subscribe
+[INFO ] 2024-01-23 10:35:12.084 [main] subscriptionofnewsletter_stepdef - Clicking on logout
+[INFO ] 2024-01-23 10:35:16.599 [main] subscriptionofnewsletter_stepdef - Clicking on logout

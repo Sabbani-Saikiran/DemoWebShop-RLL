@@ -1,0 +1,19 @@
+<suite name="DemoWebShop Suite">
+<listeners>
+<listener class-name="TestNGListeners.CucumberExtentReportListener"/>
+
+<listener class-name="TestNGListeners.Transformer"/>
+</listeners>
+<test name="CucumberTest">
+<classes>
+<class name="Runner.registration_testng_runner"/>
+<class name="Runner.login_testng_runner"/>
+<class name="Runner.addorremovefromcart_TestNgRunner"/>
+<class name="Runner.addtowishlist_testng_runner"/>
+<class name="Runner.checkout_testng_runner"/>
+<class name="Runner.search_testng_runner"/>
+<class name="Runner.com_poll_testng_runner"/>
+<class name="Runner.nls_testng_runner"/>
+</classes>
+</test>
+</suite>
